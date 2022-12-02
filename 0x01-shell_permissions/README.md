@@ -1,1 +1,1 @@
-Adds Multiple permission on a file
+Execution  permission  to owner, group and user
