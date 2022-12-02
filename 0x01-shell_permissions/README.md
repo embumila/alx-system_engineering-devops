@@ -1,1 +1,1 @@
-Add excute permission to all subdirectory
+Add permission to the directory
