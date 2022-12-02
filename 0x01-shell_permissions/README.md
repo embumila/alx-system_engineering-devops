@@ -1,1 +1,1 @@
-Changing excution permission of the file
+Adds Multiple permission on a file
