@@ -1,1 +1,1 @@
-Set mode of a file hello as olleh
+Add excute permission to all subdirectory
