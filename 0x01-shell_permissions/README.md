@@ -1,1 +1,1 @@
-Print user name
+Print  username of a current user
