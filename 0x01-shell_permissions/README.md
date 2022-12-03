@@ -1,1 +1,1 @@
-Changing and assigning ownership to multiple group at a time
+Changin gownership of the group with conditions
