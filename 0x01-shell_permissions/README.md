@@ -1,1 +1,1 @@
-Changing the owner and the group owner to staff
+Changing and assigning ownership to multiple group at a time
