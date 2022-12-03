@@ -1,1 +1,1 @@
-Moving all files beging  with Uper case
+Delete all files in current directory that ending with ~
