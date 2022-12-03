@@ -1,1 +1,1 @@
-Changin gownership of the group with conditions
+Playng star war from the terminal
