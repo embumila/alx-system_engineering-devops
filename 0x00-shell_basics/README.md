@@ -1,1 +1,1 @@
-Delete file named betty
+Delete Directory
