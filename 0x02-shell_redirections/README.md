@@ -1,1 +1,1 @@
-Delete all regular file with js extension
+Make the directory count
