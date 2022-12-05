@@ -1,1 +1,1 @@
-Display lines containing parten root and 3 lines after them in the file /etc/passwd
+Display all lines in  the file /etc/passwd that contain the parten bin
