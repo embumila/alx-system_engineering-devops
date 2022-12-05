@@ -1,1 +1,1 @@
-Displaying the lines containing root from the /etc/passwd
+Display numberof line that contains the parten  bin
