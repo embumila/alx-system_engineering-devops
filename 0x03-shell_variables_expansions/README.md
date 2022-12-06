@@ -1,1 +1,1 @@
-Converting from base 10 to 16
+Encodes and decodes text using rot13 encryption
