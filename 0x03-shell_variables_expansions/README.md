@@ -1,1 +1,1 @@
-Listing environment variable
+List local variable and environmetal variable
