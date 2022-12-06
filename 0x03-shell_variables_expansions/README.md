@@ -1,1 +1,1 @@
-Working on  expornet of values stored on an environmental variable
+Converting number from base 2 to 10
