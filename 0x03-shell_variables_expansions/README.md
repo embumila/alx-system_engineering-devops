@@ -1,1 +1,1 @@
-Create new global variable
+Work on divisio
