@@ -1,1 +1,1 @@
-Create script for alias
+Hello user
