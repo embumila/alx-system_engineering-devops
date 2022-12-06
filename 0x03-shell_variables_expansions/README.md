@@ -1,1 +1,1 @@
-List local variable and environmetal variable
+Create a script that creates a new local variable.
